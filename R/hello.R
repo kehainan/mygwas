@@ -22,3 +22,4 @@ good <- function() {
 }
 
 sca<-2
+gg <- 2
