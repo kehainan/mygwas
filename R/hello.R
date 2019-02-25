@@ -20,3 +20,5 @@ hello <- function() {
 good <- function() {
   print("good")
 }
+
+sca<-2
